@@ -1,4 +1,4 @@
-# Genetice-Algorithm
+# Genetic-Algorithm
 The genetic algorithm is a meta-heuristic algorithm that is implemented based on the theory of survival of the fittest
 This algorithm is used in random optimization
 
